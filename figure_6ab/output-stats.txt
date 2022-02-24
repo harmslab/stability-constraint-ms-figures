@@ -1,0 +1,32 @@
+MRP-126
+0.000000000395456
+hphobic hphobic 71
+hphobic aromatic 0
+aromatic hphobic 24
+aromatic aromatic 19
+expected number of aro/aro: 7.167
+
+S100A12
+1.000000000000000
+aromatic hphobic 71
+aromatic aromatic 41
+hphobic hphobic 3
+hphobic aromatic 1
+expected number of aro/aro: 40.552
+
+S100A8
+0.069844849293053
+aromatic hphobic 61
+aromatic aromatic 24
+hphobic hphobic 2
+hphobic aromatic 4
+expected number of aro/aro: 26.154
+
+S100A9
+0.000003437929734
+hphobic aromatic 74
+hphobic hphobic 19
+aromatic aromatic 2
+aromatic hphobic 12
+expected number of aro/aro: 9.944
+
